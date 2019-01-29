@@ -14,7 +14,7 @@ These are the exam objectives you review and understand in order to pass the tes
 - [ ] [The Puppet Language Style Guide](https://puppet.com/docs/puppet/latest/style_guide.html)
 
 #### Describe language features
-- [ ] [Language: Basics](https://puppet.com/docs/puppet/latest/lang_summary.html)
+- [X] [Language: Basics](https://puppet.com/docs/puppet/latest/lang_summary.html)
 - [ ] [Language: Visual Index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
 - [ ] [Language: Reserved Words and Acceptable Names](https://puppet.com/docs/puppet/latest/lang_reserved.html)
 - [ ] [Language: Resources](https://puppet.com/docs/puppet/latest/lang_resources.html)
