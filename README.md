@@ -16,7 +16,7 @@ These are the exam objectives you review and understand in order to pass the tes
 #### Describe language features
 - [X] [Language: Basics](https://puppet.com/docs/puppet/latest/lang_summary.html)
 - [X] [Language: Resources](https://puppet.com/docs/puppet/latest/lang_resources.html)
-- [ ] [Language: Relationships and Ordering](https://puppet.com/docs/puppet/latest/lang_relationships.html)
+- [X] [Language: Relationships and Ordering](https://puppet.com/docs/puppet/latest/lang_relationships.html)
 - [ ] [Langauge: Resource Defaults](https://puppet.com/docs/puppet/latest/lang_defaults.html)
 - [ ] [Language: Variables](https://puppet.com/docs/puppet/latest/lang_variables.html)
 - [ ] [Language: Tags](https://puppet.com/docs/puppet/latest/lang_tags.html)
