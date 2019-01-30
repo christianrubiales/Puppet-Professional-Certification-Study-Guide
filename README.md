@@ -29,7 +29,7 @@ These are the exam objectives you review and understand in order to pass the tes
 - [ ] [Language: Resource collectors](https://docs.puppet.com/puppet/latest/lang_collectors.html)
 - [ ] [Language: Virtual resources](https://docs.puppet.com/puppet/latest/lang_virtual.html)
 - [X] [Language: Tags](https://puppet.com/docs/puppet/latest/lang_tags.html)
-- [ ] [Language: Run stages](https://puppet.com/docs/puppet/latest/lang_run_stages.html)
+- [X] [Language: Run stages](https://puppet.com/docs/puppet/latest/lang_run_stages.html)
 - [ ] [Language: Expressions](https://puppet.com/docs/puppet/latest/lang_expressions.html)
 - [ ] [Language: Functions](https://puppet.com/docs/puppet/latest/lang_functions.html)
 - [ ] [Language: Visual Index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
