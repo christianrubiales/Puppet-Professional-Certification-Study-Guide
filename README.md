@@ -4,6 +4,8 @@
 
 Online resources that will help you prepare for taking the Puppet Professional Certification exam.
 
+Clone this one: [https://github.com/christianrubiales/Puppet-Professional-Certification-Study-Guide-Checklist](https://github.com/christianrubiales/Puppet-Professional-Certification-Study-Guide-Checklist)
+
 ## Exam Objectives
 
 These are the exam objectives you review and understand in order to pass the test. 
