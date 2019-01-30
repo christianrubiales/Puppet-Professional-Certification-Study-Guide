@@ -18,8 +18,6 @@ These are the exam objectives you review and understand in order to pass the tes
 - [X] [Language: Resources](https://puppet.com/docs/puppet/latest/lang_resources.html)
 - [ ] [Language: Relationships and Ordering](https://puppet.com/docs/puppet/latest/lang_relationships.html)
 - [ ] [Langauge: Resource Defaults](https://puppet.com/docs/puppet/latest/lang_defaults.html)
-- [ ] [Language: Visual Index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
-- [ ] [Language: Reserved Words and Acceptable Names](https://puppet.com/docs/puppet/latest/lang_reserved.html)
 - [ ] [Language: Variables](https://puppet.com/docs/puppet/latest/lang_variables.html)
 - [ ] [Language: Tags](https://puppet.com/docs/puppet/latest/lang_tags.html)
 - [ ] [Language: Facts and Built-in Variables](https://puppet.com/docs/puppet/latest/lang_facts_and_builtin_vars.html)
@@ -31,6 +29,8 @@ These are the exam objectives you review and understand in order to pass the tes
 - [ ] [Language: Virtual resources](https://docs.puppet.com/puppet/latest/lang_virtual.html)
 - [ ] [Language: Expressions](https://puppet.com/docs/puppet/latest/lang_expressions.html)
 - [ ] [Language: Functions](https://puppet.com/docs/puppet/latest/lang_functions.html)
+- [ ] [Language: Visual Index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
+- [ ] [Language: Reserved Words and Acceptable Names](https://puppet.com/docs/puppet/latest/lang_reserved.html)
 - [ ] [ntp-puppet-4-language-update](https://puppet.com/blog/ntp-puppet-4-language-update)
 
 #### Identify the core resource types
